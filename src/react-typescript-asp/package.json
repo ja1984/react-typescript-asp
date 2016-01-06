@@ -1,0 +1,17 @@
+{
+  "name": "ASP.NET",
+  "version": "0.0.0",
+  "devDependencies": {
+    "gulp": "3.8.11",
+	"gulp-util": "~3.0.7",
+	
+	"typescript": "~1.7.5",
+	"webpack": "~1.12.9",
+    "ts-loader": "~0.7.2",
+	
+	"react": "~0.14.5",
+    "react-dom": "~0.14.5",
+    "react-router": "~1.0.3",
+    "history": "~1.17.0"
+  }
+}
